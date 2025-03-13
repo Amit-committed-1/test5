@@ -10,6 +10,7 @@ public class Test5Application {
 	boolean isPresent = true;
 	double d = 23.678;
 	float f1 = 12.56f;
+	char ch2 = 'Z';
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
