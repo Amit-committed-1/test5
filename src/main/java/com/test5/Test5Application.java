@@ -9,6 +9,7 @@ public class Test5Application {
 	char ch = 'A';
 	boolean isPresent = true;
 	double d = 23.678;
+	float f1 = 12.56f;
 	public static void main(String[] args) {
 		SpringApplication.run(Test5Application.class, args);
 	}
